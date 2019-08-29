@@ -1,2 +1,0 @@
-# databasesql
-Database with SQL
